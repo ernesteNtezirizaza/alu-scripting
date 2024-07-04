@@ -1,2 +1,1 @@
-# alu-scripting
-Regural expressions
+Regular Expressions
